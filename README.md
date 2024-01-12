@@ -7,7 +7,7 @@
         <tr>
             <td align="center" valign="top" width="20%">
                 <a href="https://github.com/bebe217">
-                    <img src="https://github.com/ciocio97/life_secretary/assets/80025242/eeec872c-d4e1-49b4-a3f6-50c09cfd2c9d" width="100px;" alt="thumbnail_jihye"/>
+                    <img src="https://github.com/ciocio97/life_secretary/assets/80025242/ee947e78-b6fe-464a-9991-5448bbe7893e" width="100px;" alt="thumbnail_jihye"/>
                     <br />
                     <sub><b>김지혜</b></sub>
                 </a>
